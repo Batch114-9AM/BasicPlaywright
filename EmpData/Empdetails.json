@@ -1,0 +1,7 @@
+{
+    "UN" : "selenium",
+    "PWD" : "cypress",
+    "XUN" : "//input[@type='text']",
+    "XPWD" : "//input[@type='password']",
+    "XSUB" : "//input[@type='Submit']"
+}
